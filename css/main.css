@@ -70,3 +70,11 @@ h2{
   color: #f2f2f2;
     font-weight: 100;
 }
+
+#process
+{
+  background-image:url('../images/scale.png');
+  width:1200px;
+  height: 800px;
+
+}
