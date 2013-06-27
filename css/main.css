@@ -1,0 +1,59 @@
+body {
+	background-color: #3a3a3a;
+	}
+
+#top{
+	height:200px;
+}
+
+#startButton {
+    /*Step 3: Text Styles*/
+    color: #ff6666;
+    text-align: center;
+    position:relative;
+	top: 50%;
+	left: 15%;     
+}
+ 
+/*Step 3: Link Styles*/
+a {
+	margin-left: auto;
+	margin-right: auto;
+    text-decoration: none;
+    font-family: 'Lato', sans-serif;
+    font-size: 100px;   
+    font-weight: 100;
+    color: #f2f2f2;    
+}
+
+.result {
+	font-family: 'Lato', sans-serif;
+    font-size: 100px;   
+    font-weight: 100;
+    color: #ff6666;
+}
+
+#resultArea
+{
+	 margin-top: 100px;
+	 margin-left: 20px;
+	 text-align: center;
+}
+#face{
+	margin-top: 30px;
+	 margin-left: 90px;
+	height: 48px;
+  	width: 48px;
+}
+
+.smile{
+  background-image:url('../images/smileface.png');
+  background-color: #3a3a3a;
+ 
+}
+
+.cry{
+  background-image:url('../images/cryface.png');
+    background-color: #3a3a3a;
+  
+}
